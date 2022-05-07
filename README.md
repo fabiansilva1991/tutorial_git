@@ -1,2 +1,2 @@
 # tutorial_git
-Esto es un tutorial
+Esto es una prueba de commit.
